@@ -1,17 +1,31 @@
-# Welcome to MkDocs
+---
+hide:
+  - navigation
+  - toc
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# SACHIN TIWARI
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Experienced software engineer proficient in Angular, JavaScript, TypeScript, SQL Server, .NET Core, Github, Azure, and Python data science libraries.
 
-## Project layout
+[Click here](https://shorturl.at/CI246) to view resume.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+- [Experience](./experience.md)
+- [Skills & Tech-stack](./skills.md)
+- [Projects Undertaken](./projects.md)
+- [Education](./education.md)
+- [Rewards & Recognitions](./recognition.md)
+- [Interests & Hobbies](./interests.md)
+- [About Me](./about.md)
+
+---
+
+[![Instagram](./images/svg/instagram.svg)](https://www.instagram.com/classicaldobby){.md-social\_\_link .md-social}
+[![Github](./images/svg/github.svg)](https://github.com/sachint2202){.md-social\_\_link .md-social}
+[![LinkedIn](./images/svg/linkedin.svg)](https://www.linkedin.com/in/sachintiwari2058){.md-social\_\_link .md-social}
+[![Medium](./images/svg/medium.svg)](https://medium.com/@sachintiwari2){.md-social\_\_link .md-social}
+[![Email](./images/svg/solid-paper-plane.svg)](mailto:<sachintiwari2058@gmail.com>){.md-social\_\_link .md-social}
