@@ -1,15 +1,19 @@
-site_name: Sachin Tiwari
+site_name: James ZOU CV
+site_url: https://zou-zhicheng.github.io/cv/
+repo_url: https://github.com/zou-zhicheng/cv-mkdocs
+site_description: CV of James ZOU in GitHub pages created by Mkdocs
+site_author: James ZOU
 nav:
   - Home: index.md
-  - Experience: experience.md
+  - Education & Experience: experience.md
   - Skills & Tech-stack: skills.md
   - Projects Undertaken: projects.md
-  - Education: education.md
   - Rewards & Recognitions: recognition.md
   - Interests & Hobbies: interests.md
   - About Me: about.md
   - Downloads: download.md
 theme:
+  name: mkdocs
   features:
     - navigation.tracking
     - navigation.footer
@@ -52,18 +56,18 @@ extra:
   generator: false
 
   social:
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/classicaldobby
+    # - icon: fontawesome/brands/instagram
+    #   link: https://www.instagram.com/classicaldobby
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/sachintiwari2058
+      link: https://www.linkedin.com/in/zouzhicheng
     - icon: fontawesome/brands/github
-      link: https://github.com/sachint2202
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/@sachintiwari2
+      link: https://github.com/zou-zhicheng
+    # - icon: fontawesome/brands/medium
+    #   link: https://medium.com/@sachintiwari2
     - icon: fontawesome/solid/paper-plane
-      link: mailto:<sachintiwari2058@gmail.com>
+      link: mailto:<zouzhicheng@foxmail.com>
 
-copyright: Copyright &copy; 2024 &nbsp;Sachin Tiwari
+copyright: Copyright &copy; 2025 &nbsp;James ZOU
 
 markdown_extensions:
   - tables
@@ -92,7 +96,9 @@ markdown_extensions:
 
   - pymdownx.tasklist:
       custom_checkbox: true
+
 plugins:
+  - search
   - tags
 #   - social:
 #       cards_color:
